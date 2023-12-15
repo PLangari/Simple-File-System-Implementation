@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "sfs_dir.h": "c",
+        "sfs_inode.h": "c",
+        "types.h": "c",
+        "disk_emu.h": "c",
+        "__hash_table": "c",
+        "__split_buffer": "c",
+        "array": "c",
+        "bitset": "c",
+        "initializer_list": "c",
+        "string": "c",
+        "string_view": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "time.h": "c",
+        "utils.h": "c"
+    }
+}
